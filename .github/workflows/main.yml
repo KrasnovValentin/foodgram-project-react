@@ -66,9 +66,9 @@ jobs:
       - name: Push to Docker Hub
         uses: docker/build-push-action@v2
         with:
-          context: ./front
+          context: ./frontend
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/front:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/frontend:latest
 
   deploy:
     name: Deploying on remote server
