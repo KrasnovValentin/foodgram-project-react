@@ -1,4 +1,5 @@
-[![CI](https://github.com/KrasnovValentin/infra_actions/actions/workflows/main.yml/badge.svg)](https://github.com/KrasnovValentin/foodgram-project-react/actions/workflows/main.yml)
+[![CI](https://github.com/KrasnovValentin/
+foodgram-project-react/actions/workflows/main.yml/badge.svg)](https://github.com/KrasnovValentin/foodgram-project-react/actions/workflows/main.yml)
 
 
 ## Проект Foodgram
