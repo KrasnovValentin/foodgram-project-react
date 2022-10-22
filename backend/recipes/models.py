@@ -46,7 +46,7 @@ class Tag(models.Model):
 
 class Recipe(models.Model):
     """Модель рецепта"""
-    name = models.CharField('Название', max_length=200)
+    name = models.CharField('Название', max_length=200, db_index=True)
     author = models.ForeignKey(
         User,
         related_name='recipes',
