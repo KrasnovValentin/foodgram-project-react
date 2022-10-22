@@ -11,7 +11,7 @@
 
 Админ-зона http://178.154.228.211/admin/  
 
-==============================================================  
+  
 ###Стэк технологий.
 ▪ **Python**<br>
 ▪ **Django**<br>
@@ -22,7 +22,7 @@
 ▪ **PostgreSQL**<br>
 ▪ **Yandex Cloud**<br>
 ▪ **CI/CD**<br>
-==============================================================  
+  
 ![](https://img.shields.io/badge/Python-3.7.0-blue?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Django-3.2.15-orange?style=flat&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-13.0-blue?style=flat&logo=postgresql&logoColor=white)
