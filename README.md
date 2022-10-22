@@ -12,7 +12,7 @@
 Админ-зона http://178.154.228.211/admin/  
 
   
-###Стэк технологий.
+### Стэк технологий.
 ▪ **Python**<br>
 ▪ **Django**<br>
 ▪ **Django Rest Framework**<br>
